@@ -1,0 +1,7 @@
+# MAC
+.DS_Store
+
+## Xcode
+xcuserdata/
+Build/
+DerivedData/
