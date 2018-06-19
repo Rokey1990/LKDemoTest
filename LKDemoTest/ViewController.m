@@ -21,6 +21,7 @@
     NSLog(@"kitty");
     NSLog(@"this is from Rokey");
     NSLog(@"this is a test reset");
+    NSLog(@"this is a test 22");
     
 }
 
