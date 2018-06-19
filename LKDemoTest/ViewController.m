@@ -20,6 +20,7 @@
     NSLog(@"hello");
     NSLog(@"kitty");
     NSLog(@"this is from Rokey");
+    NSLog(@"this is from 222");
     NSLog(@"this is a test reset");
     
 }
