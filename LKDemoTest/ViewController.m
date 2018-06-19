@@ -19,7 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"hello");
     NSLog(@"kitty");
-    NSLog(@"this is from master");
+    NSLog(@"this is from Rokey");
+    NSLog(@"this is a test reset");
+    
 }
 
 
