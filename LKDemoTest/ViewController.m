@@ -23,7 +23,7 @@
     NSLog(@"hahahha");
     NSLog(@"this is from 222");
     NSLog(@"this is a test reset");
-    NSLog(@"this is a test 22 - rokey");
+    NSLog(@"this is a test 22 - rokey1");
     
 }
 
